@@ -41,6 +41,8 @@ pip install streamlit plotly pandas scikit-learn xgboost joblib requests
 
 Download the dataset: [CIC-IDS-2017 Friday DDoS](https://www.unb.ca/cic/datasets/ids-2017.html)
 Place `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv` in the project root.
+Download the dataset: [5G-NNID](https://www.kaggle.com/datasets/humera11/5g-nidd-dataset)](https://www.unb.ca/cic/datasets/ids-2017.html)
+Place `5G-NNID` in the project root.
 
 ## ▶️ Run
 
@@ -72,12 +74,17 @@ python detector.py
 ├── XGBoost.pkl            # Trained XGBoost model
 ├── README.md              # This file
 └── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv  # Dataset
+└── 5G-NNID.csv  # Dataset
 ```
 
 ## 🔬 Dataset
 
 CIC-IDS-2017 (Canadian Institute for Cybersecurity)
 - 78 network flow features extracted from PCAP
+- Labels: BENIGN / DDoS
+
+5G-NNID (Network Intrusion Detection Dataset Generated over 5G Wireless)
+- 52 network features extracted from 5G network traffic
 - Labels: BENIGN / DDoS
 
 ## 🎓 Academic Context
