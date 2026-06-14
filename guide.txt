@@ -1,0 +1,9 @@
+source .myenv/bin/activate
+
+pip3 install scapy pyshark pandas joblib streamlit
+pip install scikit-learn pandas joblib scapy
+
+streamlit run dashboard.py
+python3 detector.py 
+
+https://www.kaggle.com/datasets/ishasingh03/friday-workinghours-afternoon-ddos

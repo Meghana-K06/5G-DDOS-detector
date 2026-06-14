@@ -1,0 +1,26 @@
+# datasets
+*.csv
+
+# models
+*.pkl
+*.joblib
+
+# virtual environments
+venv/
+env/
+.env/
+.myenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+
+*.csv
+*.pkl
+*.joblib
+data/
+models/
