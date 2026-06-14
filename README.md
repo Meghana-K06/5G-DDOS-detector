@@ -96,5 +96,12 @@ This system demonstrates:
 - **LLM Integration**: Generative AI for automated threat narration
 - **Real-time Systems**: Streaming detection simulation
 
+## Screenshoots
+
+![](screenshots/img_1)
+![](screenshots/img_2)
+![](screenshots/img_4)
+![](screenshots/img_3)
+
 ## Future Scope 
 Add LLM integration for report generation
