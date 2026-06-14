@@ -98,10 +98,10 @@ This system demonstrates:
 
 ## Screenshoots
 
-![](screenshots/img_1)
-![](screenshots/img_2)
-![](screenshots/img_4)
-![](screenshots/img_3)
+![](screenshots/img_1.jpeg)
+![](screenshots/img_2.jpeg)
+![](screenshots/img_4.jpeg)
+![](screenshots/img_3.jpeg)
 
 ## Future Scope 
 Add LLM integration for report generation
