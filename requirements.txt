@@ -3,3 +3,6 @@ joblib
 numpy
 pandas
 scikit-learn
+plotly 
+xgboost 
+requests 
